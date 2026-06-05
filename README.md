@@ -1,2 +1,4 @@
 # cyber-password-vault
-Password Manager (Java CLI) is a simple command-line app to securely store, view, search, and delete password entries. It uses OOP concepts, ArrayList, and file handling for persistent storage. Built to practice Java fundamentals and real-world project structuring.
+A simple command-line Password Manager application built using Java.
+It allows users to securely store, view, search, and delete password entries for different services like Gmail, Instagram, etc. The project also includes file-based storage so that data persists even after the program is closed.
+This project is designed for beginners to understand Object-Oriented Programming (OOP), collections, file handling, and modular design in Java.
